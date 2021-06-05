@@ -1,4 +1,4 @@
-# Guía del **Autoestopista** FullStack
+# Guía del **<span style="color:red">Autoestopista** </span> FullStack
 
 > _Todo map road comienza en un Hello World_
 
