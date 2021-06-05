@@ -48,7 +48,7 @@ if (
 <!-- GitHub MarkDown-->
 
 - [x] Tarea 1
-- [] Tarea 2
+- [ ] Tarea 2
 - [x] Tarea 3
-- [] Tarea 4
+- [ ] Tarea 4
 - [x] Tarea 5
