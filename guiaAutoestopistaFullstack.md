@@ -23,7 +23,7 @@
 #### Flexbox
 
 - [Juego de la Rana](https://flexboxfroggy.com/#es)
-- [Tutorial Layaut](https://www.youtube.com/watch?v=IP0ZZFBShOI)
+- [Tutorial layout](https://www.youtube.com/watch?v=IP0ZZFBShOI)
 
 #### Grid
 
