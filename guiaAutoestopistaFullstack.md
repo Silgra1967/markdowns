@@ -1,5 +1,9 @@
 # Guía del **Autoestopista** FullStack
 
+> _Todo map road comienza en un Hello World_
+
+![Hello](hello-world-banner.jpg)
+
 ## Front End
 
 ---
@@ -46,7 +50,7 @@
 - [Componentes para descargar](https://tailwindcomponents.com/)
 - [Barra de Menú Hermosa](https://betterprogramming.pub/8-frontend-coding-ideas-that-will-inspire-you-to-code-7ed8481919fe)
 - [Botones](https://www.bestcssbuttongenerator.com/#/33)
-- [SweetAlert](https://sweetalert2.github.io/#usage)
+- [SweetAlert](https://sweetalert2.github.io/#usage) :star::star::star::star::star:
   - [Tutorial SweetAlert](https://www.youtube.com/watch?v=NDASIexWyhU)
 
 ## Back End
@@ -99,19 +103,20 @@ Lenguaje de marcado que facilita la aplicación de formato a un texto empleando 
 ## Imágenes gratis
 
 - [Pixabay](https://tailwindcomponents.com/)
-- [FreePick](https://www.freepik.es/):star::star::star::star::star:
+- [FreePick](https://www.freepik.es/) :star::star::star::star::star:
 - [UntraW](https://undraw.co/illustrations)
 - [UnSplash](https://unsplash.com/)
 
-## Editores de Video
-
-- [OpenShot](https://www.openshot.org/es/)
-
 ## Iconos
 
+- [FontAwesome](https://fontawesome.com/) :star::star::star::star::star:
 - [Iconos8](https://iconos8.es/)
 - [Boxicons](https://boxicons.com/)
 - [LinearIcons](https://linearicons.com/free)
+
+## Fuentes
+
+- [Google](https://fonts.google.com/)
 
 ---
 
@@ -125,3 +130,9 @@ Lenguaje de marcado que facilita la aplicación de formato a un texto empleando 
 
 - [Editor](https://p5js.org/es/)
 - [Los mejores tutos](https://www.youtube.com/c/TheCodingTrain)
+
+---
+
+## Editores de Video
+
+- [OpenShot](https://www.openshot.org/es/)
