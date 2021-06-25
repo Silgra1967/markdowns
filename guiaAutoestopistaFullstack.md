@@ -28,6 +28,11 @@
 - [Diseñando una galería de imágenes con flexbox](https://www.youtube.com/watch?v=3vnEyfU_EaQ)
 - [GALERIA de IMAGENES con efecto lightbox HTML y CSS](https://www.youtube.com/watch?v=4gLZYgmRN6E&t=582s)
 
+#### Imágenes
+
+- [API de imagenes aleatorias](https://picsum.photos/)
+
+
 #### Consejos
 
 - [Las mejores prácticas para Principiantes](https://code.tutsplus.com/es/tutorials/30-css-best-practices-for-beginners--net-6741) :heavy_check_mark:
